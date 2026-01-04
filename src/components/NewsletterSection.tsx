@@ -26,20 +26,20 @@ export const NewsletterSection = () => {
                   </div>
                 </div>
                 <h3 className="text-2xl font-bold text-foreground">
-                  Thanks for subscribing!
+                  You're all set!
                 </h3>
                 <p className="text-muted-foreground">
-                  You'll receive our best offers and promotions soon.
+                  Watch your inbox for exclusive ticket deals and savings alerts.
                 </p>
               </div>
             ) : (
               <div className="space-y-6">
                 <div className="space-y-2">
                   <h3 className="text-2xl font-bold text-foreground">
-                    Want promotional emails?
+                    Get Exclusive Ticket Deals!
                   </h3>
                   <p className="text-lg text-muted-foreground">
-                    Subscribe to our newsletter and get exclusive offers
+                    Subscribe and be first to know about flash sales and special promotions
                   </p>
                 </div>
                 
